@@ -59,6 +59,7 @@ function scrollTop(){
     margin: 0 auto !important;
     text-align: center !important;
     margin-left: -40 !important;
+    margin-top: 10px !important;
   }
   .nav-store:hover:after {
     background: #ff3334;
@@ -163,6 +164,9 @@ function scrollTop(){
   .marquee-item{
     width: 200px !important;
   }
+  .icon{
+    display: none !important;
+  }
 }
 </style>
 
@@ -202,11 +206,19 @@ nav {
 
 ul li {
   display: inline-block;
-  padding: 20px;
+  padding: 10px 15px;
   font-size: 1.2em;
+  border-radius: 10px;
   font-family: "Montserrat" !important;
   font-weight: bold;
   letter-spacing: 1.5px;
+  background-color: #dfdedc;
+  margin: 0px 10px
+}
+
+ul li:hover{
+  /* background-color: #bebdbb; */
+  /* color: white !important; */
 }
 
 a {
@@ -219,7 +231,7 @@ a:link {
 
 a:hover {
   text-decoration: none;
-  color: #ff3334;
+  /* color: white; */
 }
 
 .nav-store {
