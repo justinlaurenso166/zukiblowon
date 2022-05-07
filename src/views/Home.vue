@@ -54,7 +54,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ape.jpg"
+              src="../assets/img/ape.JPG"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -74,7 +74,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ape.jpg"
+              src="../assets/img/ape.JPG"
               class="lg:w-full w-full rounded-lg"
           /></span>
         </div>
@@ -99,7 +99,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ape.jpg"
+              src="../assets/img/ape.JPG"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -119,7 +119,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ape.jpg"
+              src="../assets/img/ape.JPG"
               class="lg:w-full w-full rounded-lg"
           /></span>
         </div>
@@ -129,7 +129,7 @@ import Header from "../components/Header.vue";
         <div class="py-8 animate-marquee3 whitespace-nowrap flex lg:h-auto">
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/zombie.jpg"
+              src="../assets/img/zombie.JPG"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -144,12 +144,12 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ape.jpg"
+              src="../assets/img/ape.JPG"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/zombie.jpg"
+              src="../assets/img/zombie.JPG"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -164,7 +164,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ape.jpg"
+              src="../assets/img/ape.JPG"
               class="lg:w-full w-full rounded-lg"
           /></span>
         </div>
@@ -174,7 +174,7 @@ import Header from "../components/Header.vue";
         >
         <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/zombie.jpg"
+              src="../assets/img/zombie.JPG"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -189,12 +189,12 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ape.jpg"
+              src="../assets/img/ape.JPG"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/zombie.jpg"
+              src="../assets/img/zombie.JPG"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -209,7 +209,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ape.jpg"
+              src="../assets/img/ape.JPG"
               class="lg:w-full w-full rounded-lg"
           /></span>
         </div>
@@ -342,7 +342,7 @@ import Header from "../components/Header.vue";
       </div>
       <div class="bio" style="margin-right: 18px">
         <a href="https://twitter.com/VeryStonedTweet"
-          ><img class="avatar" src="../assets/img/verium.jpg"
+          ><img class="avatar" src="../assets/img/verium.JPG"
         /></a>
         <div class="team-user">Verium</div>
         <div class="team-title">Developer</div>
