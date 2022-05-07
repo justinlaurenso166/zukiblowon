@@ -25,7 +25,7 @@ import Header from "../components/Header.vue";
           <li><a href="#zukiblowon-faq">FAQ</a></li>
           <li><a href="#zukiblowon-roadmap">Roadmap</a></li>
           <li><a href="#zukiblowon-community">Community</a></li>
-          <li><a href="#zukiblowon-store">Merch</a></li>
+          <li><a href="#zukiblowon-team">Team</a></li>
         </ul>
       </nav>
     </div>

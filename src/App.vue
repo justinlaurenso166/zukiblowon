@@ -1,8 +1,14 @@
 <script setup>
+import scroll from "./assets/scroll.png"
+
+function scrollTop(){
+  window.scrollTo(0,0)
+}
 </script>
 
 <template>
   <router-view></router-view>
+  <button class="fixed bottom-9 right-9 text-white" @click="scrollTop()"><img :src="scroll" class="w-20"></button>
 </template>
 
 <style>
