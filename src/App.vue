@@ -97,11 +97,12 @@
     margin-left: 10% !important;
   }
   #zukiblowon-community {
-    width: 400px !important;
+    width: 100% !important;
     padding-top: 0px !important;
-    padding-bottom: 0px !important;
+    padding-bottom: 40px !important;
   }
   .social-container {
+    width: 100% !important;
     height: 200px !important;
   }
   #zukiblowon-faq {
@@ -112,10 +113,10 @@
     padding-bottom: 0px !important;
   }
   .faq {
-    width: 425px !important;
+    width: 100% !important;
   }
   .faq-heading {
-    font-size: 0.8em !important;
+    font-size: 1em !important;
     padding-top: 12px !important;
     padding-left: 20px !important;
     text-indent: 0 !important;
@@ -134,15 +135,21 @@
     font-size: calc(3.375rem * var(--smaller)) !important;
   }
   #zukiblowon-team {
-    width: 400px !important;
+    width: 100% !important;
     margin-top: -50px !important;
   }
   .avatar {
     margin-top: 25px !important;
   }
   .marquee-container {
-    width: 400px !important;
+    width: 100% !important;
     margin: auto !important;
+  }
+  .discord, .twitter, .opensea{
+    width: 300px !important;
+  }
+  #footer{
+    width: 300px !important;
   }
 }
 </style>
@@ -375,7 +382,6 @@ a:hover {
   text-align: center;
 }
 .social-container {
-  width: 432px;
   margin: 0 auto;
   text-align: center;
 }
@@ -425,7 +431,7 @@ a:hover {
 }
 
 .faq-text {
-  font-family: "Montserrat";
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 1.25em;
   color: #fff;
@@ -442,10 +448,10 @@ a:hover {
   position: relative;
 }
 .faq label {
-  height: 100px !important;
+  height: auto !important;
   width: 100%;
   cursor: pointer;
-  padding-top: 1px;
+  padding-top: 10px;
   margin-top: 10px;
   border-radius: 14px;
   background-color: #282828;

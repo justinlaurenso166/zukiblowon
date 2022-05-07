@@ -271,7 +271,7 @@ import Header from "../components/Header.vue";
     <div id="zukiblowon-community">
       <div class="h1-title">Community</div>
     </div>
-    <div class="social-container">
+    <div class="social-container flex items-center justify-center flex-col">
       <a href="https://discord.gg/zukiblowon" target="_blank"
         ><div
           class="
