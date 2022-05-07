@@ -13,8 +13,8 @@ onMounted(() => {
 <template>
   <div>
     <div id="zukiblowon-main" class="maincontainer flex flex-row-reverse">
-      <div class="flex items-center justify-end lg:flex-1 icon md:flex-0">
-        <ul>
+      <div class="flex items-center justify-end lg:flex-0 icon md:flex-0 mt-2">
+        <ul class="lg:flex items-center">
           <li class="">
             <a
               href=""
@@ -99,8 +99,9 @@ onMounted(() => {
         </ul>
       </div>
       <nav class="lg:flex-1 flex flex-start">
-        <ul>
-          <li><a href="#zukiblowon-sneak_peeks">Sneak Peeks</a></li>
+        <ul class="lg:flex items-start items-center gap-1">
+          <li><a href="#zukiblowon-main"><img src="../assets/img/logo.png" class="inline" style="width: 240px"></a></li>
+          <li class="ml-2"><a href="#zukiblowon-sneak_peeks">Sneak Peeks</a></li>
           <li><a href="#zukiblowon-faq">FAQ</a></li>
           <li><a href="#zukiblowon-roadmap">Roadmap</a></li>
           <li><a href="#zukiblowon-team">Team</a></li>

@@ -216,6 +216,11 @@ ul li {
   margin: 0px 10px
 }
 
+nav ul li:first-child{
+  background: transparent;
+}
+
+
 ul li:hover{
   /* background-color: #bebdbb; */
   /* color: white !important; */
@@ -521,10 +526,10 @@ a:hover {
 }
 
 #zukiblowon-main {
-  width: 1400px;
+  width: 100%;
   display: flex;
   margin-bottom: 20px !important;
-  margin-top: 20px;
+  padding: 10px 70px 0px 20px;
 }
 
 .zukiblowon-logo-sm {
