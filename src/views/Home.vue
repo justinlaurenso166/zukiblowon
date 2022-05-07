@@ -342,7 +342,7 @@ import Header from "../components/Header.vue";
       </div>
       <div class="bio" style="margin-right: 18px">
         <a href="https://twitter.com/VeryStonedTweet"
-          ><img class="avatar" src="../assets/img/verium.JPG"
+          ><img class="avatar" src="../assets/img/ace.png"
         /></a>
         <div class="team-user">Verium</div>
         <div class="team-title">Developer</div>
