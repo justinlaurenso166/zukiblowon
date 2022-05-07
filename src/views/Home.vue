@@ -49,7 +49,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.jpg"
+              src="../assets/img/mre.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -69,7 +69,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.jpg"
+              src="../assets/img/mre.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -94,7 +94,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.jpg"
+              src="../assets/img/mre.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -114,7 +114,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.jpg"
+              src="../assets/img/mre.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -134,7 +134,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.jpg"
+              src="../assets/img/mre.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -154,7 +154,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.jpg"
+              src="../assets/img/mre.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -179,7 +179,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.jpg"
+              src="../assets/img/mre.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
@@ -199,7 +199,7 @@ import Header from "../components/Header.vue";
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.jpg"
+              src="../assets/img/mre.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
