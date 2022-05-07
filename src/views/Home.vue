@@ -227,7 +227,7 @@ onMounted(() => {
       <div class="h1-title" style="margin-bottom: 50px">FAQ</div>
     </div>
     <div class="faq">
-      <div class="mt-4" data-aos="zoom-in" data-aos-duration="1000">
+      <div class="mt-4" data-aos="zoom-in" data-aos-duration="1000" data-aos-easing="ease-in" data-aos-once="false">
         <input id="faq-a" type="checkbox" />
         <label for="faq-a">
           <p class="faq-heading">How many Zukiblowon?</p>
@@ -236,7 +236,7 @@ onMounted(() => {
           </p>
         </label>
       </div>
-      <div class="mt-4"  data-aos="zoom-in" data-aos-duration="1000">
+      <div class="mt-4"  data-aos="zoom-in" data-aos-duration="1000" data-aos-easing="ease-in" data-aos-once="false">
         <input id="faq-b" type="checkbox" />
         <label for="faq-b">
           <p class="faq-heading">What is the mint price?</p>
@@ -245,14 +245,14 @@ onMounted(() => {
           </p>
         </label>
       </div>
-      <div class="mt-4"  data-aos="zoom-in" data-aos-duration="1000">
+      <div class="mt-4"  data-aos="zoom-in" data-aos-duration="1000" data-aos-easing="ease-in" data-aos-once="false">
         <input id="faq-c" type="checkbox" />
         <label for="faq-c">
           <p class="faq-heading">Smart Contract and Gas?</p>
           <p class="faq-text">ERC721A, under 25$ to mint 10 NFTs</p>
         </label>
       </div>
-      <div class="mt-4"  data-aos="zoom-in" data-aos-duration="1000">
+      <div class="mt-4"  data-aos="zoom-in" data-aos-duration="1000" data-aos-easing="ease-in" data-aos-once="false">
         <input id="settings" type="checkbox" />
         <input id="faq-d" type="checkbox" />
         <label for="faq-d">
@@ -260,7 +260,7 @@ onMounted(() => {
           <p class="faq-text">We are not affiliated with any projects.</p>
         </label>
       </div>
-      <div class="mt-4"  data-aos="zoom-in" data-aos-duration="1000">
+      <div class="mt-4"  data-aos="zoom-in" data-aos-duration="1000" data-aos-easing="ease-in" data-aos-once="false">
         <input id="settings" type="checkbox" />
         <input id="faq-e" type="checkbox" />
         <label for="faq-e">
@@ -337,36 +337,36 @@ onMounted(() => {
       <div class="h1-title" style="margin-bottom: 50px">THE TEAM</div>
       <div class="grid lg:grid-cols-3 md:grid-cols-1 gap-20 px-7">
         <div class="bio">
-          <a href="https://twitter.com/AceyNft"
-            ><img class="avatar rounded-lg w-full" src="../assets/img/ace.png"
+          <a
+            ><img class="avatar rounded-lg w-full" src="../assets/img/1.png"
           /></a>
           <div class="team-user">Darrel</div>
           <div class="team-title">Founder</div>
         </div>
         <div class="bio">
-          <a href="https://twitter.com/Mre_NFT"
-            ><img class="avatar rounded-lg w-full" src="../assets/img/mre.png"
+          <a
+            ><img class="avatar rounded-lg w-full" src="../assets/img/2.png"
           /></a>
           <div class="team-user">Robert Tan</div>
           <div class="team-title">Co Founder</div>
         </div>
         <div class="bio">
-          <a href="https://twitter.com/VeryStonedTweet"
-            ><img class="avatar rounded-lg w-full" src="../assets/img/ace.png"
+          <a
+            ><img class="avatar rounded-lg w-full" src="../assets/img/4.png"
           /></a>
           <div class="team-user">Calvin</div>
           <div class="team-title">Artist</div>
         </div>
           <div class="bio">
-          <a href="https://twitter.com/VeryStonedTweet"
-            ><img class="avatar rounded-lg w-full" src="../assets/img/ace.png"
+          <a
+            ><img class="avatar rounded-lg w-full" src="../assets/img/7.png"
           /></a>
           <div class="team-user">Dave</div>
           <div class="team-title">Artist</div>
         </div>
           <div class="bio">
-          <a href="https://twitter.com/VeryStonedTweet"
-            ><img class="avatar rounded-lg w-full" src="../assets/img/ace.png"
+          <a
+            ><img class="avatar rounded-lg w-full" src="../assets/img/8.png"
           /></a>
           <div class="team-user">Mr W</div>
           <div class="team-title">Developer</div>
