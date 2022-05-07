@@ -348,9 +348,6 @@ import Header from "../components/Header.vue";
         <div class="team-title">Developer</div>
       </div>
     </div>
-    <a href="#zukiblowon-main"
-      ><img src="images/background.png" class="background-img"
-    /></a>
     <div id="footer">
       <div
         id="verified-address"
