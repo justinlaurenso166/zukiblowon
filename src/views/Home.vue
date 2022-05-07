@@ -1,5 +1,13 @@
 <script setup>
 import Header from "../components/Header.vue";
+import { onMounted } from "@vue/runtime-core";
+
+import AOS from "aos";
+import "aos/dist/aos.css";
+
+onMounted(() => {
+  AOS.init();
+});
 </script>
 
 <template>
@@ -39,42 +47,42 @@ import Header from "../components/Header.vue";
         <div class="py-8 animate-marquee whitespace-nowrap flex lg:h-auto">
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/1.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/2.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/3.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/4.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/5.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/6.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/7.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/8.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
         </div>
@@ -84,42 +92,42 @@ import Header from "../components/Header.vue";
         >
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/1.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/2.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/3.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/4.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/5.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/6.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/7.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/8.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
         </div>
@@ -129,42 +137,42 @@ import Header from "../components/Header.vue";
         <div class="py-8 animate-marquee3 whitespace-nowrap flex lg:h-auto">
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/9.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/10.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/11.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/12.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/13.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/14.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/15.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/16.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
         </div>
@@ -174,42 +182,42 @@ import Header from "../components/Header.vue";
         >
         <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/9.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/10.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/11.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/12.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/13.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/mre.png"
+              src="../assets/img/14.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/15.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
           <span class="mx-4 marquee-item"
             ><img
-              src="../assets/img/ace.png"
+              src="../assets/img/16.png"
               class="lg:w-full w-full rounded-lg"
           /></span>
         </div>
@@ -219,7 +227,7 @@ import Header from "../components/Header.vue";
       <div class="h1-title" style="margin-bottom: 50px">FAQ</div>
     </div>
     <div class="faq">
-      <div>
+      <div class="mt-4" data-aos="zoom-in" data-aos-duration="1000">
         <input id="faq-a" type="checkbox" />
         <label for="faq-a">
           <p class="faq-heading">How many Zukiblowon?</p>
@@ -228,7 +236,7 @@ import Header from "../components/Header.vue";
           </p>
         </label>
       </div>
-      <div>
+      <div class="mt-4"  data-aos="zoom-in" data-aos-duration="1000">
         <input id="faq-b" type="checkbox" />
         <label for="faq-b">
           <p class="faq-heading">What is the mint price?</p>
@@ -237,14 +245,14 @@ import Header from "../components/Header.vue";
           </p>
         </label>
       </div>
-      <div>
+      <div class="mt-4"  data-aos="zoom-in" data-aos-duration="1000">
         <input id="faq-c" type="checkbox" />
         <label for="faq-c">
           <p class="faq-heading">Smart Contract and Gas?</p>
           <p class="faq-text">ERC721A, under 25$ to mint 10 NFTs</p>
         </label>
       </div>
-      <div>
+      <div class="mt-4"  data-aos="zoom-in" data-aos-duration="1000">
         <input id="settings" type="checkbox" />
         <input id="faq-d" type="checkbox" />
         <label for="faq-d">
@@ -252,7 +260,7 @@ import Header from "../components/Header.vue";
           <p class="faq-text">We are not affiliated with any projects.</p>
         </label>
       </div>
-      <div>
+      <div class="mt-4"  data-aos="zoom-in" data-aos-duration="1000">
         <input id="settings" type="checkbox" />
         <input id="faq-e" type="checkbox" />
         <label for="faq-e">
@@ -327,26 +335,42 @@ import Header from "../components/Header.vue";
     </div>
     <div id="zukiblowon-team">
       <div class="h1-title" style="margin-bottom: 50px">THE TEAM</div>
-      <div class="bio" style="margin-right: 18px">
-        <a href="https://twitter.com/AceyNft"
-          ><img class="avatar" src="../assets/img/ace.png"
-        /></a>
-        <div class="team-user">-</div>
-        <div class="team-title">-</div>
-      </div>
-      <div class="bio" style="margin-right: 18px">
-        <a href="https://twitter.com/Mre_NFT"
-          ><img class="avatar" src="../assets/img/mre.png"
-        /></a>
-        <div class="team-user">-</div>
-        <div class="team-title">-</div>
-      </div>
-      <div class="bio" style="margin-right: 18px">
-        <a href="https://twitter.com/VeryStonedTweet"
-          ><img class="avatar" src="../assets/img/ace.png"
-        /></a>
-        <div class="team-user">-</div>
-        <div class="team-title">-</div>
+      <div class="grid lg:grid-cols-3 md:grid-cols-1 gap-20 px-7">
+        <div class="bio">
+          <a href="https://twitter.com/AceyNft"
+            ><img class="avatar rounded-lg w-full" src="../assets/img/ace.png"
+          /></a>
+          <div class="team-user">Darrel</div>
+          <div class="team-title">Founder</div>
+        </div>
+        <div class="bio">
+          <a href="https://twitter.com/Mre_NFT"
+            ><img class="avatar rounded-lg w-full" src="../assets/img/mre.png"
+          /></a>
+          <div class="team-user">Robert Tan</div>
+          <div class="team-title">Co Founder</div>
+        </div>
+        <div class="bio">
+          <a href="https://twitter.com/VeryStonedTweet"
+            ><img class="avatar rounded-lg w-full" src="../assets/img/ace.png"
+          /></a>
+          <div class="team-user">Calvin</div>
+          <div class="team-title">Artist</div>
+        </div>
+          <div class="bio">
+          <a href="https://twitter.com/VeryStonedTweet"
+            ><img class="avatar rounded-lg w-full" src="../assets/img/ace.png"
+          /></a>
+          <div class="team-user">Dave</div>
+          <div class="team-title">Artist</div>
+        </div>
+          <div class="bio">
+          <a href="https://twitter.com/VeryStonedTweet"
+            ><img class="avatar rounded-lg w-full" src="../assets/img/ace.png"
+          /></a>
+          <div class="team-user">Mr W</div>
+          <div class="team-title">Developer</div>
+        </div>
       </div>
     </div>
     <div id="footer">

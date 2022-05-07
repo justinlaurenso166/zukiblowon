@@ -117,9 +117,12 @@ function scrollTop(){
     text-align: center !important;
     padding-top: 0px !important;
     padding-bottom: 0px !important;
+
   }
   .faq {
     width: 100% !important;
+    padding-left: 1.75rem !important/* 28px */;
+    padding-right: 1.75rem !important/* 28px */;
   }
   .faq-heading {
     font-size: 1em !important;
@@ -562,17 +565,17 @@ a:hover {
 .team-user {
   font-family: "Montserrat";
   font-weight: 800;
-  font-size: 2rem;
+  font-size: 1.8em;
   color: #ff3334;
   display: block;
   text-align: left;
   margin-left: 5px;
-  margin-top: 2px;
+  margin-top: 10px;
 }
 
 .team-title {
   font-family: "Montserrat";
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   display: block;
   text-align: left;
   margin-left: 5px;
