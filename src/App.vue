@@ -80,7 +80,7 @@
     width: 400px !important;
     padding-top: 0px !important;
     margin-top: -40px !important;
-    height: 1500px !important;
+    /* height: 1500px !important; */
   }
   .art-01 {
     width: 350px !important;
@@ -136,10 +136,10 @@
   }
   #zukiblowon-team {
     width: 100% !important;
-    margin-top: -50px !important;
+    margin-top: 50px !important;
   }
   .avatar {
-    margin-top: 25px !important;
+    margin-top: 20px !important;
   }
   .marquee-container {
     width: 100% !important;
@@ -150,6 +150,9 @@
   }
   #footer{
     width: 300px !important;
+  }
+  .marquee-item{
+    width: 200px !important;
   }
 }
 </style>

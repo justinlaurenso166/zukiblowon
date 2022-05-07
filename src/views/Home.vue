@@ -263,16 +263,17 @@ import Header from "../components/Header.vue";
     </div>
     <div id="zukiblowon-roadmap">
       <div class="h1-title">Roadmap</div>
-      <img src="../assets/img/01-art.png" class="art-01" />
+      <!-- <img src="../assets/img/01-art.png" class="art-01" />
       <img src="../assets/img/002-utility.png" class="utility-02" />
       <img src="../assets/img/03-expand.png" class="expand-03" />
-      <img src="../assets/img/04-explore.png" class="explore-04" />
+      <img src="../assets/img/04-explore.png" class="explore-04" /> -->
+      <h3 class="text-center mt-24 text-4xl font-bold tracking-wider">Coming Soon</h3>
     </div>
     <div id="zukiblowon-community">
       <div class="h1-title">Community</div>
     </div>
     <div class="social-container flex items-center justify-center flex-col">
-      <a href="https://discord.gg/zukiblowon" target="_blank"
+      <a href="" target="_blank"
         ><div
           class="
             discord
@@ -286,10 +287,10 @@ import Header from "../components/Header.vue";
             rounded-full
           "
         >
-          Discord
+          Discord (Coming Soon)
         </div></a
       >
-      <a href="https://twitter.com/zukiblowon_nft" target="_blank"
+      <a href="" target="_blank"
         ><div
           class="
             twitter
@@ -306,7 +307,7 @@ import Header from "../components/Header.vue";
           Twitter
         </div></a
       >
-      <a href="https://opensea.io/collection/zukiblowon" target="_blank"
+      <a href="" target="_blank"
         ><div
           class="
             opensea
@@ -330,22 +331,22 @@ import Header from "../components/Header.vue";
         <a href="https://twitter.com/AceyNft"
           ><img class="avatar" src="../assets/img/ace.png"
         /></a>
-        <div class="team-user">AceySpades (ace)</div>
-        <div class="team-title">Co-founder</div>
+        <div class="team-user">-</div>
+        <div class="team-title">-</div>
       </div>
       <div class="bio" style="margin-right: 18px">
         <a href="https://twitter.com/Mre_NFT"
           ><img class="avatar" src="../assets/img/mre.png"
         /></a>
-        <div class="team-user">MrE</div>
-        <div class="team-title">Co-founder</div>
+        <div class="team-user">-</div>
+        <div class="team-title">-</div>
       </div>
       <div class="bio" style="margin-right: 18px">
         <a href="https://twitter.com/VeryStonedTweet"
           ><img class="avatar" src="../assets/img/ace.png"
         /></a>
-        <div class="team-user">Verium</div>
-        <div class="team-title">Developer</div>
+        <div class="team-user">-</div>
+        <div class="team-title">-</div>
       </div>
     </div>
     <div id="footer">
