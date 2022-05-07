@@ -7,7 +7,7 @@ import Header from "../components/Header.vue";
     <div id="zukiblowon-main" class="maincontainer flex flex-row-reverse">
       <a href="/" class="flex items-center justify-end lg:flex-1">
         <span
-        style="background-color: #ff3334; font-family: 'Fredoko One', cursive;"
+        style="background-color: #ff3334; font-family: 'Montserrat';"
           class="
             text-4xl
             font-bold

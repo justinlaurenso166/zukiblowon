@@ -6,8 +6,9 @@
 </template>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 #app {
-  font-family: "Fredoko One", cursive, sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
@@ -147,7 +148,6 @@
 </style>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 body {
   background-color: #F0ECE3;
 }
@@ -185,7 +185,7 @@ ul li {
   display: inline-block;
   padding: 20px;
   font-size: 1.2em;
-  font-family: "Fredoko One", cursive !important;
+  font-family: "Montserrat" !important;
   font-weight: bold;
   letter-spacing: 1.5px;
 }
@@ -277,7 +277,7 @@ a:hover {
 }
 
 .h1-title {
-  font-family: "Fredoko One", cursive;
+  font-family: "Montserrat";
   font-size: 3.5em;
   color: #ff3334;
   padding-top: 150px;
@@ -329,12 +329,12 @@ a:hover {
 }
 .main-title {
   margin: 0 auto;
-  font-family: "Fredoko One", cursive;
+  font-family: "Montserrat";
   font-size: 2.5em;
   color: #ff3334;
 }
 .main-text {
-  font-family: "Fredoko One", cursive;
+  font-family: "Montserrat";
   font-size: 1.25em;
   font-weight: bold;
   color: #ff3334;
@@ -414,7 +414,7 @@ a:hover {
 }
 
 .faq-heading {
-  font-family: "Fredoko One",cursive;
+  font-family: "Montserrat";
   font-weight: 600;
   font-size: 1.3em;
   -webkit-transition: text-indent 0.2s;
@@ -425,7 +425,7 @@ a:hover {
 }
 
 .faq-text {
-  font-family: "Fredoko One",cursive;
+  font-family: "Montserrat";
   font-weight: 400;
   font-size: 1.25em;
   color: #fff;
@@ -545,7 +545,7 @@ a:hover {
 }
 
 .team-user {
-  font-family: "Fredoko One", cursive;
+  font-family: "Montserrat";
   font-weight: 800;
   font-size: 2rem;
   color: #ff3334;
@@ -556,7 +556,7 @@ a:hover {
 }
 
 .team-title {
-  font-family: "Fredoko One", cursive;
+  font-family: "Montserrat";
   font-size: 1.5rem;
   display: block;
   text-align: left;
