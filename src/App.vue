@@ -1,24 +1,25 @@
 <script setup>
-import scroll from "./assets/scroll.png"
+import scroll from "./assets/scroll.png";
 
-function scrollTop(){
-  window.scrollTo(0,0)
+function scrollTop() {
+  window.scrollTo(0, 0);
 }
 </script>
 
 <template>
   <router-view></router-view>
-  <button class="fixed bottom-9 right-9 text-white" @click="scrollTop()"><img :src="scroll" class="w-20"></button>
+  <button class="fixed bottom-9 right-9 text-white" @click="scrollTop()">
+    <img :src="scroll" class="w-20" />
+  </button>
 </template>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
 #app {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Makuton", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
-
 }
 @media handheld, only screen and (max-width: 767px) {
   .logo {
@@ -51,7 +52,7 @@ function scrollTop(){
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
-  #zukiblowon-main a span{
+  #zukiblowon-main a span {
     display: none !important;
   }
   ul li {
@@ -83,7 +84,7 @@ function scrollTop(){
   .machine {
     width: 350px !important;
   }
-  #zukiblowon-main{
+  #zukiblowon-main {
     padding: 0px !important;
   }
   #zukiblowon-roadmap {
@@ -121,7 +122,6 @@ function scrollTop(){
     text-align: center !important;
     padding-top: 0px !important;
     padding-bottom: 0px !important;
-
   }
   .faq {
     width: 100% !important;
@@ -158,29 +158,34 @@ function scrollTop(){
     width: 100% !important;
     margin: auto !important;
   }
-  .discord, .twitter, .opensea{
+  .discord,
+  .twitter,
+  .opensea {
     width: 300px !important;
   }
-  #footer{
+  #footer {
     width: 300px !important;
   }
-  .marquee-item{
+  .marquee-item {
     width: 200px !important;
   }
-  .icon{
+  .icon {
     display: none !important;
   }
-  .icon-sm{
+  .icon-sm {
     display: block !important;
     text-align: center !important;
   }
-  
 }
 </style>
 
 <style>
+@font-face {
+  font-family: "Makuton";
+  src: url("assets/font/Makuton.ttf");
+}
 body {
-  background-color: #F0ECE3;
+  background-color: #f0ece3;
 }
 
 html::-webkit-scrollbar {
@@ -194,7 +199,7 @@ html::-webkit-scrollbar-track {
 html::-webkit-scrollbar-thumb {
   background: #ff3334;
 }
-.icon-sm{
+.icon-sm {
   display: none;
 }
 .maincontainer {
@@ -219,19 +224,18 @@ ul li {
   padding: 10px 15px;
   font-size: 1.2em;
   border-radius: 10px;
-  font-family: "Montserrat" !important;
+  font-family: "Makuton" !important;
   font-weight: bold;
   letter-spacing: 1.5px;
   background-color: #dfdedc;
-  margin: 0px 10px
+  margin: 0px 10px;
 }
 
-nav ul li:first-child{
+nav ul li:first-child {
   background: transparent;
 }
 
-
-ul li:hover{
+ul li:hover {
   background-color: #dad8d3;
   cursor: pointer;
   /* color: white !important; */
@@ -325,7 +329,7 @@ a:hover {
 }
 
 .h1-title {
-  font-family: "Montserrat";
+  font-family: "Makuton";
   font-size: 3.5em;
   color: #ff3334;
   padding-top: 150px;
@@ -377,12 +381,12 @@ a:hover {
 }
 .main-title {
   margin: 0 auto;
-  font-family: "Montserrat";
+  font-family: "Makuton";
   font-size: 2.5em;
   color: #ff3334;
 }
 .main-text {
-  font-family: "Montserrat";
+  font-family: "Makuton";
   font-size: 1.25em;
   font-weight: bold;
   color: #ff3334;
@@ -461,18 +465,19 @@ a:hover {
 }
 
 .faq-heading {
-  font-family: "Montserrat";
-  font-weight: 600;
+  font-family: "Makuton";
+  font-weight: bold;
   font-size: 1.3em;
   -webkit-transition: text-indent 0.2s;
   text-indent: 20px;
   color: #ebe7e1;
   border-radius: 16px;
   padding-top: 16px;
+  letter-spacing: 3px;
 }
 
 .faq-text {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Makuton", sans-serif;
   font-weight: 400;
   font-size: 1.25em;
   color: #fff;
@@ -480,6 +485,7 @@ a:hover {
   padding-left: 20px;
   margin-bottom: 30px;
   margin-top: 10px;
+  letter-spacing: 1px;
 }
 
 .faq {
@@ -502,7 +508,7 @@ a:hover {
   display: none;
 }
 
-.marquee-item{
+.marquee-item {
   width: 350px;
 }
 
@@ -592,23 +598,25 @@ a:hover {
 }
 
 .team-user {
-  font-family: "Montserrat";
+  font-family: "Makuton";
   font-weight: 800;
-  font-size: 1.8em;
+  font-size: 2em;
   color: #ff3334;
   display: block;
   text-align: left;
   margin-left: 5px;
   margin-top: 10px;
+  letter-spacing: 1px;
 }
 
 .team-title {
-  font-family: "Montserrat";
-  font-size: 1.6rem;
+  font-family: "Makuton";
+  font-size: 1.8rem;
   display: block;
   text-align: left;
   margin-left: 5px;
   margin-top: 3px;
+  letter-spacing: 1px;
 }
 .verified {
   color: #ffffff;

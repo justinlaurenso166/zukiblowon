@@ -529,7 +529,7 @@ onMounted(() => {
           border-radius: 10px;
         "
       >
-        <span style="font-weight: bold; color: #ffffff"
+        <span style="font-weight: bold; color: #ffffff; font-size: 20px; letter-spacing: 1px"
           >Verified Smart Contract:
           <a
             href="https://etherscan.io/address/0xF25B304Faf5C928936969d6f368BF6Ba21270258"
