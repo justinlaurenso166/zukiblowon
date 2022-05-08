@@ -170,6 +170,10 @@ function scrollTop(){
   .icon{
     display: none !important;
   }
+  .icon-sm{
+    display: block !important;
+    text-align: center !important;
+  }
   
 }
 </style>
@@ -190,7 +194,9 @@ html::-webkit-scrollbar-track {
 html::-webkit-scrollbar-thumb {
   background: #ff3334;
 }
-
+.icon-sm{
+  display: none;
+}
 .maincontainer {
   width: 100vw;
   margin: 0 auto;
