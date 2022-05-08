@@ -83,6 +83,9 @@ function scrollTop(){
   .machine {
     width: 350px !important;
   }
+  #zukiblowon-main{
+    padding: 0px !important;
+  }
   #zukiblowon-roadmap {
     width: 400px !important;
     padding-top: 0px !important;
@@ -167,6 +170,7 @@ function scrollTop(){
   .icon{
     display: none !important;
   }
+  
 }
 </style>
 
@@ -222,7 +226,8 @@ nav ul li:first-child{
 
 
 ul li:hover{
-  /* background-color: #bebdbb; */
+  background-color: #dad8d3;
+  cursor: pointer;
   /* color: white !important; */
 }
 
@@ -236,6 +241,7 @@ a:link {
 
 a:hover {
   text-decoration: none;
+  color: #282828;
   /* color: white; */
 }
 
