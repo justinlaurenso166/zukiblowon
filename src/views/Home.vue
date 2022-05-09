@@ -479,7 +479,7 @@ onMounted(() => {
             <div>
               <p class="roadmap-number">01</p>
               <p class="roadmap-text">
-                Discord Server Launch<br> (SOON)
+                Discord Server Launch
               </p>
             </div>
             <img src="../assets/img/discord.png" class="w-80 absolute right-0 bottom-0 lg:-mr-5">
