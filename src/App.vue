@@ -176,6 +176,13 @@ function scrollTop() {
     display: block !important;
     text-align: center !important;
   }
+  .roadmap-container{
+    height: auto !important;
+    flex-direction: column !important;
+  }
+  .w-sm{
+    height: 300px !important;
+  }
 }
 </style>
 
@@ -267,7 +274,7 @@ a:hover {
 }
 
 #zukiblowon-roadmap {
-  width: 1000px;
+  width: 96%;
   margin: 0 auto;
   padding-bottom: 20px;
 }
@@ -627,5 +634,40 @@ a:hover {
 }
 .marquee-container {
   margin: auto;
+}
+.roadmap-container{
+  height: 700px;
+  /* background-image: url("assets/img/1_1.png"); */
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #282828;
+}
+.bg-roadmap{
+  background-color: #d7cdb5;
+}
+.bg-special{
+  background-image: url("assets/img/1_1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+.roadmap-number{
+  font-size: 4em;
+}
+.roadmap-text{
+  font-size: 1.6em;
+}
+.no-1{
+  height: 300px;
+}
+.no-3{
+  height: 400px;
+}
+.no-4{
+  height: 200px;
+}
+.no-7{
+  height: 500px;
 }
 </style>

@@ -470,13 +470,91 @@ onMounted(() => {
     </div>
     <div id="zukiblowon-roadmap">
       <div class="h1-title">Roadmap</div>
-      <!-- <img src="../assets/img/01-art.png" class="art-01" />
-      <img src="../assets/img/002-utility.png" class="utility-02" />
-      <img src="../assets/img/03-expand.png" class="expand-03" />
-      <img src="../assets/img/04-explore.png" class="explore-04" /> -->
-      <h3 class="text-center mt-24 text-4xl font-bold tracking-wider">
+      <!-- <h3 class="text-center mt-24 text-4xl font-bold tracking-wider">
         Coming Soon
-      </h3>
+      </h3> -->
+      <div class="flex gap-4 mt-16 roadmap-container">
+        <div class="flex flex-1 flex-col gap-4">
+          <div class="relative flex items-end flex-0 bg-roadmap w-sm px-8 py-8 no-1">
+            <div>
+              <p class="roadmap-number">01</p>
+              <p class="roadmap-text">
+                Discord Server Launch<br> (SOON)
+              </p>
+            </div>
+            <img src="../assets/img/discord.png" class="w-80 absolute right-0 bottom-0 lg:-mr-5">
+          </div>
+          <div class="relative flex items-end lg:flex-1 md:flex-0 bg-roadmap w-sm px-8 py-8">
+            <div>
+              <p class="roadmap-number">02</p>
+              <p class="roadmap-text">
+                Listing on Raritysniffer
+              </p>
+            </div>
+            <img src="../assets/img/Logo/2.png" class="w-80 absolute right-0 bottom-0 lg:-mr-5">
+          </div>
+        </div>
+        <div class="flex flex-1 flex-col gap-4">
+          <div class="relative flex items-end flex-0 bg-roadmap w-sm p-8 no-3">
+            <div>
+              <p class="roadmap-number">03</p>
+              <p class="roadmap-text">
+                Weekly Giveaway & Contest
+              </p>
+            </div>
+            <img src="../assets/img/Logo/3.png" class="w-80 absolute right-0 bottom-0 lg:-mr-5">
+          </div>
+          <div class="relative flex items-end lg:flex-1 md:flex-0 bg-roadmap w-sm p-8">
+            <div>
+              <p class="roadmap-number">04</p>
+              <p class="roadmap-text">
+                Alpha Group
+              </p>
+            </div>
+            <img src="../assets/img/Logo/4.png" class="w-80 absolute right-0 bottom-0 lg:-mr-5">
+          </div>
+        </div>
+          <div class="flex flex-1 flex-col gap-4">
+          <div class="relative flex items-end flex-0 bg-roadmap w-sm p-8 no-4">
+            <div>
+              <p class="roadmap-number">05</p>
+              <p class="roadmap-text">
+                Marketing Campaign
+              </p>
+            </div>
+            <img src="../assets/img/Logo/5.png" class="w-80 absolute right-0 bottom-0 lg:-mr-5">
+          </div>
+          <div class="relative flex items-end lg:flex-1 md:flex-0 bg-roadmap w-sm p-8">
+            <div>
+              <p class="roadmap-number">06</p>
+              <p class="roadmap-text">
+                Collaboration
+              </p>
+            </div>
+            <img src="../assets/img/Logo/6.png" class="w-80 absolute right-0 bottom-0 lg:-mr-5">
+          </div>
+        </div>
+          <div class="flex flex-1 flex-col gap-4">
+          <div class="relative flex items-end flex-0 bg-roadmap w-sm p-8 no-7">
+            <div>
+              <p class="roadmap-number">07</p>
+              <p class="roadmap-text">
+                Merchandise
+              </p>
+            </div>
+            <img src="../assets/img/Logo/7.png" class="w-80 absolute right-0 bottom-0 lg:-mr-5">
+          </div>
+          <div class="relative flex items-end lg:flex-1 md:flex-0 bg-roadmap w-sm p-8">
+            <div>
+              <p class="roadmap-number">08</p>
+              <p class="roadmap-text">
+                Original Project
+              </p>
+            </div>
+            <img src="../assets/img/Logo/8.png" class="w-80 absolute right-0 bottom-0 lg:-mr-5">
+          </div>
+        </div>
+      </div>
     </div>
     <div id="zukiblowon-team">
       <div class="h1-title" style="margin-bottom: 50px">THE TEAM</div>
