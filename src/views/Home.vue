@@ -563,28 +563,28 @@ onMounted(() => {
           <a
             ><img class="avatar rounded-lg w-full" src="../assets/img/1.png"
           /></a>
-          <div class="team-user">Darrel</div>
+          <div class="team-user">Mike</div>
           <div class="team-title">Founder</div>
         </div>
         <div class="bio">
           <a
             ><img class="avatar rounded-lg w-full" src="../assets/img/2.png"
           /></a>
-          <div class="team-user">Robert Tan</div>
+          <div class="team-user">Adr</div>
           <div class="team-title">Co Founder</div>
         </div>
         <div class="bio">
           <a
             ><img class="avatar rounded-lg w-full" src="../assets/img/4.png"
           /></a>
-          <div class="team-user">Calvin</div>
+          <div class="team-user">Keju</div>
           <div class="team-title">Artist</div>
         </div>
         <div class="bio">
           <a
             ><img class="avatar rounded-lg w-full" src="../assets/img/7.png"
           /></a>
-          <div class="team-user">Dave</div>
+          <div class="team-user">Mr Ko</div>
           <div class="team-title">Artist</div>
         </div>
         <div class="bio">
