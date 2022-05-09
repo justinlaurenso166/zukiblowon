@@ -135,6 +135,7 @@ onMounted(() => {
           <li><a href="#zukiblowon-faq">FAQ</a></li>
           <li><a href="#zukiblowon-roadmap">Roadmap</a></li>
           <li><a href="#zukiblowon-team">Team</a></li>
+          <li><a href="#zukiblowon-tools">Tools</a></li>
           <li class="icon-sm">
             <a
               href="https://twitter.com/zukiblowon"
@@ -596,12 +597,33 @@ onMounted(() => {
         </div>
       </div>
     </div>
+    <div id="zukiblowon-tools">
+      <div class="h1-title" style="margin-bottom: 30px">MINDBLOWON</div>
+      <div class="text-4xl tracking-wider mb-20">
+        <p>Support The Original Project</p>
+        <p class="mt-5">MINDBLOWON</p>
+      </div>
+      <div class="grid lg:grid-cols-3 md:grid-cols-1 gap-20 px-7">
+        <div>
+          <video autoplay loop><source src="../assets/video/1.mp4"></video>
+          <p class="text-4xl font-bold tracking-wider mt-10">#6722</p>
+        </div>
+        <div>
+          <video autoplay loop><source src="../assets/video/2.mp4"></video>
+          <p class="text-4xl font-bold tracking-wider mt-10">#4931</p>
+        </div>
+        <div>
+          <video autoplay loop><source src="../assets/video/3.mp4"></video>
+          <p class="text-4xl font-bold tracking-wider mt-10">#1167</p>
+        </div>
+      </div>
+    </div>
     <div id="footer">
       <div
         id="verified-address"
         style="
           text-align: center;
-          margin: 50px auto 25px auto;
+          margin: 100px auto 25px auto;
           background-color: #951414;
           padding: 20px;
           border-radius: 10px;

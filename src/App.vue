@@ -191,7 +191,7 @@ function scrollTop() {
   .li-time span {
     font-size: calc(3.375rem * var(--smaller)) !important;
   }
-  #zukiblowon-team {
+  #zukiblowon-team, #zukiblowon-tools {
     width: 100% !important;
     margin-top: 50px !important;
   }
@@ -591,6 +591,7 @@ a:hover {
   width: 432px;
   height: auto;
   margin: 0 auto;
+  margin-top: 50px;
   padding-bottom: 25px;
 }
 
@@ -633,7 +634,7 @@ a:hover {
   font-size: 4.5rem;
 }
 
-#zukiblowon-team {
+#zukiblowon-team, #zukiblowon-tools {
   width: 1200px;
   text-align: center;
   margin: 0 auto;
