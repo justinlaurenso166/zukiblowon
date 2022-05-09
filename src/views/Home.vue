@@ -137,7 +137,7 @@ onMounted(() => {
           <li><a href="#zukiblowon-team">Team</a></li>
           <li class="icon-sm">
             <a
-              href=""
+              href="https://twitter.com/zukiblowon"
               target="_blank"
               class="
                 w-full
