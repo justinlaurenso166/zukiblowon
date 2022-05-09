@@ -407,7 +407,7 @@ onMounted(() => {
         <label for="faq-a">
           <p class="faq-heading">How many Zukiblowon?</p>
           <p class="faq-text">
-            There is 5,555 Zukiblowon that generated from 200 Hand drawn Traits!
+            There is 5,555 Zukiblowon that generated from 400 Hand drawn Traits!
           </p>
         </label>
       </div>
@@ -464,7 +464,7 @@ onMounted(() => {
         <input id="faq-e" type="checkbox" />
         <label for="faq-e">
           <p class="faq-heading">Wen reveal?</p>
-          <p class="faq-text">Instant Reveal</p>
+          <p class="faq-text">Reveal in 24 Hours after Mint</p>
         </label>
       </div>
     </div>
@@ -529,7 +529,7 @@ onMounted(() => {
           border-radius: 10px;
         "
       >
-        <span style="font-weight: bold; color: #ffffff; font-size: 20px; letter-spacing: 1px"
+        <span style="font-weight: bold; color: #ffffff; font-size: 17px; letter-spacing: 1px"
           >Verified Smart Contract:
           <a
             href="https://etherscan.io/address/0xF25B304Faf5C928936969d6f368BF6Ba21270258"
