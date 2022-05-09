@@ -17,7 +17,7 @@ onMounted(() => {
         <ul class="lg:flex items-center">
           <li class="">
             <a
-              href=""
+              href="https://twitter.com/zukiblowon"
               target="_blank"
               class="
                 w-full
