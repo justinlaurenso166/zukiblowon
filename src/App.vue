@@ -645,6 +645,10 @@ a:hover {
 .bg-roadmap{
   background-color: #d7cdb5;
 }
+.bg-roadmap:hover{
+  cursor: pointer;
+  opacity: 0.8;
+}
 .bg-special{
   background-image: url("assets/img/1_1.png");
   background-repeat: no-repeat;
