@@ -602,7 +602,7 @@ onMounted(() => {
         style="
           text-align: center;
           margin: 50px auto 25px auto;
-          background-color: #ff3334;
+          background-color: #951414;
           padding: 20px;
           border-radius: 10px;
         "

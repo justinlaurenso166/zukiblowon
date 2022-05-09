@@ -40,7 +40,8 @@ function scrollTop() {
             text-white
             lg:py-6
             lg:px-10
-            px-4
+            text-3xl
+            px-5
             py-5
             rounded-lg
             lg:text-4xl
@@ -106,7 +107,7 @@ function scrollTop() {
     margin-top: 10px !important;
   }
   .nav-store:hover:after {
-    background: #ff3334;
+    background: #951414;
     border-radius: 8px;
     color: #ebe7e1;
     content: attr(title);
@@ -247,7 +248,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-  background: #ff3334;
+  background: #951414;
 }
 .icon-sm {
   display: none;
@@ -381,7 +382,7 @@ a:hover {
 .h1-title {
   font-family: "Makuton";
   font-size: 3.5em;
-  color: #ff3334;
+  color: #951414;
   padding-top: 150px;
   margin: 0 auto;
   text-align: center;
@@ -433,13 +434,13 @@ a:hover {
   margin: 0 auto;
   font-family: "Makuton";
   font-size: 2.5em;
-  color: #ff3334;
+  color: #951414;
 }
 .main-text {
   font-family: "Makuton";
   font-size: 1.25em;
   font-weight: bold;
-  color: #ff3334;
+  color: #951414;
 }
 #btn-container {
   width: 1400px;
@@ -573,7 +574,7 @@ a:hover {
 }
 
 .nav-store:hover:after {
-  background: #ff3334;
+  background: #951414;
   border-radius: 8px;
   color: #ebe7e1;
   content: attr(title);
@@ -651,7 +652,7 @@ a:hover {
   font-family: "Makuton";
   font-weight: 800;
   font-size: 2em;
-  color: #ff3334;
+  color: #951414;
   display: block;
   text-align: left;
   margin-left: 5px;
