@@ -271,7 +271,7 @@ nav {
 }
 
 ul li {
-  display: inline-block;
+  display: block;
   padding: 10px 15px;
   font-size: 1.2em;
   border-radius: 10px;

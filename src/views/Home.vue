@@ -132,10 +132,10 @@ onMounted(() => {
           <li class="ml-2">
             <a href="#zukiblowon-sneak_peeks">Sneak Peeks</a>
           </li>
-          <li><a href="#zukiblowon-faq">FAQ</a></li>
-          <li><a href="#zukiblowon-roadmap">Roadmap</a></li>
-          <li><a href="#zukiblowon-team">Team</a></li>
-          <li><a href="#zukiblowon-tools">Mindblowon</a></li>
+          <li><a href="/#zukiblowon-faq">FAQ</a></li>
+          <li><a href="/#zukiblowon-roadmap">Roadmap</a></li>
+          <li><a href="/#zukiblowon-team">Team</a></li>
+          <li><a href="/#zukiblowon-tools">Mindblowon</a></li>
           <li class="icon-sm">
             <a
               href="https://twitter.com/zukiblowon"
