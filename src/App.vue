@@ -32,25 +32,27 @@ function scrollTop() {
         <p class="tracking-wider uppercase font-bold lg:text-4xl text-3xl py-5 lg:ml-10">MINT YOUR ZUKIBLOWON!</p>
       </div>
       <div class="flex-1 flex justify-end self-center">
-        <button
-          class="
-            mint-btn
-            font-bold
-            tracking-widest
-            text-white
-            lg:py-6
-            lg:px-10
-            text-3xl
-            px-5
-            py-5
-            rounded-lg
-            lg:text-4xl
-            lg:mr-0
-            mr-4
-          "
-        >
-          MINT
-        </button>
+        <a target="_blank" href="http://mintzukiblowon.com">
+          <button
+            class="
+              mint-btn
+              font-bold
+              tracking-widest
+              text-white
+              lg:py-6
+              lg:px-10
+              text-3xl
+              px-5
+              py-5
+              rounded-lg
+              lg:text-4xl
+              lg:mr-0
+              mr-4
+            "
+          >
+            MINT
+          </button>
+        </a>
       </div>
     </div>
   </div>
