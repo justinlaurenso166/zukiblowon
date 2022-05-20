@@ -605,15 +605,15 @@ onMounted(() => {
       </div>
       <div class="grid lg:grid-cols-3 md:grid-cols-1 gap-20 px-7">
         <div>
-          <video autoplay loop><source src="../assets/video/1.mp4"></video>
+          <video autoplay loop><source src="../assets/img/6722.png"></video>
           <p class="text-4xl font-bold tracking-wider mt-10">#6722</p>
         </div>
         <div>
-          <video autoplay loop><source src="../assets/video/2.mp4"></video>
+          <video autoplay loop><source src="../assets/img/4931.png"></video>
           <p class="text-4xl font-bold tracking-wider mt-10">#4931</p>
         </div>
         <div>
-          <video autoplay loop><source src="../assets/video/3.mp4"></video>
+          <video autoplay loop><source src="../assets/img/1167.png"></video>
           <p class="text-4xl font-bold tracking-wider mt-10">#1167</p>
         </div>
       </div>
