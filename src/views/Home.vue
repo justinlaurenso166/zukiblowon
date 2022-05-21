@@ -423,7 +423,7 @@ onMounted(() => {
         <label for="faq-b">
           <p class="faq-heading">What is the mint price?</p>
           <p class="faq-text">
-            0.01 ETH. First 555 NFTs are Free to mint and the rest is 0.01 ETH
+            0.008 ETH. First 555 NFTs are Free to mint and the rest is 0.008 ETH
           </p>
         </label>
       </div>
