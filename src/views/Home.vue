@@ -85,7 +85,7 @@ onMounted(() => {
           </li>
           <li class="">
             <a
-              href=""
+              href="https://opensea.io/collection/zukiblowon"
               target="_blank"
               class="
                 w-full
@@ -208,7 +208,7 @@ onMounted(() => {
           </li>
           <li class="icon-sm">
             <a
-              href=""
+              href="https://opensea.io/collection/zukiblowon"
               target="_blank"
               class="
                 flex
